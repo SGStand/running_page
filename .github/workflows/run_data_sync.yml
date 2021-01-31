@@ -25,7 +25,7 @@ env:
   TITLE: SG Running
   TITLE_GRID: Over 10km Runs
   GITHUB_NAME: SGStand
-  GITHUB_EMAIL: null@null.com
+  GITHUB_EMAIL: 46212608+SGStand@users.noreply.github.com
 
 jobs:
   sync:
